@@ -1,2 +1,2 @@
 # ExercicioLacoDeRepeticao03
-c)   C) Elaborar um programa que apresente no final o somatório dos valores pares existentes na faixa de 1 até 500. 
+c)  Elaborar um programa que apresente no final o somatório dos valores pares existentes na faixa de 1 até 500. 
